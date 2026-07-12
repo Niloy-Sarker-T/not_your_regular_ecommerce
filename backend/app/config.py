@@ -10,7 +10,7 @@ class Settings(BaseSettings):
     gemini_api_key: str | None = None
     openai_api_key: str |None = None
 
-    hf_asr_space: str = "TonmoyKroos/asr"
+    hf_asr_space: str = "NiloySarkerTonmoy/asr"
 
     model_config = SettingsConfigDict(
         env_file=".env",
