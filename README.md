@@ -156,85 +156,14 @@ cart_items
 - quantity
 ```
 
-There is no user table. The cart is a single global demo cart.
+
 
 ## Product Data
 
 Products are imported from Open Food Facts using:
 
-```bash
-cd backend
-python scripts/import_openfoodfacts.py
-```
 
-The importer downloads a curated grocery/FMCG catalog and stores it in SQLite. It generates demo prices and stock values when needed.
 
-The app also includes:
-
-```text
-backend/products.json
-```
-
-This file is an exported copy of the local product table.
-
-## Environment Variables
-
-Create `backend/.env` from `backend/.env.example`.
-
-```env
-DATABASE_URL=sqlite:///./smart_ecommerce.db
-FRONTEND_ORIGIN=http://127.0.0.1:5173
-GEMINI_API_KEY=
-OPENAI_API_KEY=
-```
-
-Create `frontend/.env` from `frontend/.env.example`.
-
-```env
-VITE_API_BASE_URL=http://127.0.0.1:8000
-```
-
-For APK or deployed frontend builds, `VITE_API_BASE_URL` must point to a hosted backend URL, not `127.0.0.1`.
-
-## Run Locally
-
-### Backend
-
-```bash
-cd backend
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
-copy .env.example .env
-python scripts/import_openfoodfacts.py
-uvicorn app.main:app --reload
-```
-
-Backend URL:
-
-```text
-http://127.0.0.1:8000
-```
-
-API docs:
-
-```text
-http://127.0.0.1:8000/docs
-```
-
-### Frontend
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-Frontend URL:
-
-```text
-http://127.0.0.1:5173
-```
 
 ## Main API Routes
 
@@ -253,5 +182,3 @@ POST   /api/ai/text-command
 ```
 
 
-- Demo fallback behavior implemented for missing AI keys
-- Product catalog exported to `backend/products.json`
