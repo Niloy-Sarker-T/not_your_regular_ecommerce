@@ -1,8 +1,11 @@
 # Smart Grocery AI
 
 Smart Grocery AI is a demo AI-powered e-commerce web application for grocery and FMCG products. It demonstrates a clean end-to-end shopping flow with product browsing, image-based product search, a voice shopping assistant, cart operations, and mock checkout.
+## Live Demo
 
-The project is intentionally lightweight. It does not include authentication, payments, admin dashboards, reviews, wishlists, or full order management.
+🚀 Live Website: https://not-your-regular-ecommerce-front.onrender.com
+
+
 
 ## Tech Stack
 
@@ -42,7 +45,7 @@ The project is intentionally lightweight. It does not include authentication, pa
 3. Backend reads products from SQLite.
 4. User browses, searches, opens product details, and adds products to cart.
 5. Cart actions are handled by backend business logic.
-6. User completes a mock checkout, which clears the demo cart.
+6. User completes a checkout, which clears the demo cart.
 
 ### Image Search Flow
 
