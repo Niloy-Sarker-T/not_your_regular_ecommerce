@@ -52,7 +52,7 @@ from sqlalchemy.orm import Session
 
 from app.models import Product
 
-DATA_FILE = Path(__file__).resolve().parent.parent / "products" / "products.json"
+DATA_FILE = Path(__file__).resolve().parent.parent / "products.json"
 
 
 def seed_demo_products(db: Session) -> None:
