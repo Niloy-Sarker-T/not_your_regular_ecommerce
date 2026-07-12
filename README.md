@@ -5,7 +5,7 @@ Smart Grocery AI is a demo AI-powered e-commerce web application for grocery and
 
 🚀 Live Website: https://not-your-regular-ecommerce-front.onrender.com
 
-
+## Might take a lil bit of time to load all the products!
 
 ## Tech Stack
 
