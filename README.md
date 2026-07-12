@@ -57,7 +57,7 @@ The project is intentionally lightweight. It does not include authentication, pa
 
 1. User records a voice command or types a command.
 2. Audio is sent to the backend.
-3. Whisper converts audio to text.
+3. A Hugging Face-hosted Whisper model(trained for bangla STT) deployed in Spaces performs speech-to-text transcription by converting audio into text.
 4. Gemini receives the text and returns structured JSON only.
 5. Backend reads the JSON intent and performs the action.
 6. Frontend updates products or cart state.
