@@ -249,39 +249,6 @@ POST   /api/ai/voice-command
 POST   /api/ai/text-command
 ```
 
-## APK Note
 
-The frontend can be wrapped into an Android APK using Capacitor. The important requirement is that the APK must call a hosted backend.
-
-For APK builds:
-
-```env
-VITE_API_BASE_URL=https://your-backend-url.com
-```
-
-Also make sure the backend CORS settings allow the mobile WebView origin, commonly:
-
-```text
-capacitor://localhost
-```
-
-## Not Included By Design
-
-- Authentication
-- Payment gateway
-- Real checkout/order processing
-- Admin dashboard
-- Wishlist
-- Reviews
-- Recommendation system
-- Multi-user cart support
-
-## Current Status
-
-- Frontend implemented
-- Backend implemented
-- SQLite product/cart database implemented
-- Open Food Facts importer implemented
-- AI integration points implemented
 - Demo fallback behavior implemented for missing AI keys
 - Product catalog exported to `backend/products.json`
