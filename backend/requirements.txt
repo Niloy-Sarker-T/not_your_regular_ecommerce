@@ -7,3 +7,4 @@ python-multipart==0.0.20
 requests==2.32.4
 gradio_client
 google-genai
+Pillow==11.3.0
