@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "name": "Klorane soothing shampoo 400",
+    "brand": "Generic",
+    "category": "Personal Care",
+    "description": "Generic Klorane soothing shampoo 400",
+    "price": 4.18,
+    "stock": 37,
+    "image_url": "https://images.openfoodfacts.org/images/products/328/277/014/5076/front_en.3.400.jpg"
+  },
+  {
+    "id": 2,
+    "name": "trichup herbal shampoo",
+    "brand": "Generic",
+    "category": "Personal Care",
+    "description": "Generic trichup herbal shampoo (200ml)",
+    "price": 22.91,
+    "stock": 46,
+    "image_url": ""
+  },
+  {
+    "id": 3,
+    "name": "Kruidvat Natures Repair Shampoo",
+    "brand": "Generic",
+    "category": "Personal Care",
+    "description": "Generic Kruidvat Natures Repair Shampoo (400ml)",
+    "price": 20.85,
+    "stock": 11,
+    "image_url": "https://images.openfoodfacts.org/images/products/872/067/412/6074/front_nl.10.400.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Curl Jelly Wash",
+    "brand": "Umberto Gianni",
+    "category": "Personal Care",
+    "description": "Umberto Gianni Curl Jelly Wash (250ml)",
+    "price": 21.39,
+    "stock": 43,
+    "image_url": "https://images.openfoodfacts.org/images/products/506/047/267/0809/front_nl.5.400.jpg"
+  },
+  {
+    "id": 5,
+    "name": "shampoo",
+    "brand": "phbalance",
+    "category": "Personal Care",
+    "description": "phbalance shampoo",
+    "price": 15.48,
+    "stock": 31,
+    "image_url": ""
+  },
+  {
+    "id": 6,
+    "name": "Shampoo",
+    "brand": "Herbal",
+    "category": "Personal Care",
+    "description": "Herbal Shampoo",
+    "price": 19.13,
+    "stock": 40,
+    "image_url": "https://images.openfoodfacts.org/images/products/870/021/692/8823/front_de.3.400.jpg"
+  },
+  {
+    "id": 7,
+    "name": "honey and vitamin b shampoo",
+    "brand": "Herbal Essence",
+    "category": "Personal Care",
+    "description": "Herbal Essence honey and vitamin b shampoo",
+    "price": 20.45,
+    "stock": 36,
+    "image_url": "https://images.openfoodfacts.org/images/products/019/067/900/7100/front_en.9.400.jpg"
+  },
+  {
+    "id": 8,
+    "name": "shampoo",
+    "brand": "kolors pro",
+    "category": "Personal Care",
+    "description": "kolors pro shampoo",
+    "price": 18.4,
+    "stock": 42,
+    "image_url": ""
+  },
+  {
+    "id": 9,
+    "name": "Shampoo",
+    "brand": "Elvital",
+    "category": "Personal Care",
+    "description": "Elvital Shampoo",
+    "price": 11.42,
+    "stock": 5,
+    "image_url": ""
+  },
+  {
+    "id": 10,
+    "name": "Shampoo Teebaumöl",
+    "brand": "WL",
+    "category": "Personal Care",
+    "description": "WL Shampoo Teebaumöl",
+    "price": 15.32,
+    "stock": 12,
+    "image_url": ""
+  },
+  {
+    "id": 11,
+    "name": "3 in 1 Duschgel Shampoo",
+    "brand": "Generic",
+    "category": "Personal Care",
+    "description": "Generic 3 in 1 Duschgel Shampoo (1pcs)",
+    "price": 7.96,
+    "stock": 11,
+    "image_url": ""
+  },
+  {
+    "id": 12,
+    "name": "Shampoo rosa groß",
+    "brand": "Cien",
+    "category": "Personal Care",
+    "description": "Cien Shampoo rosa groß (1pcs)",
+    "price": 11.62,
+    "stock": 48,
+    "image_url": "https://images.openfoodfacts.org/images/products/405/648/982/6965/front_de.5.400.jpg"
+  },
+  {
+    "id": 13,
+    "name": "tresemme shampoo smooth and strai. 200ml",
+    "brand": "shampoo",
+    "category": "Personal Care",
+    "description": "shampoo tresemme shampoo smooth and strai. 200ml",
+    "price": 12.53,
+    "stock": 25,
+    "image_url": ""
+  },
+  {
+    "id": 14,
+    "name": "Dog anti mites & itch relief shampoo",
+    "brand": "Paws n tails",
+    "category": "Personal Care",
+    "description": "Paws n tails Dog anti mites & itch relief shampoo (500 ml)",
+    "price": 6.23,
+    "stock": 21,
+    "image_url": "https://images.openfoodfacts.org/images/products/000/001/052/2767/front_en.3.400.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Dog shampoo & conditioner 1,9L",
+    "brand": "Paws n Tails",
+    "category": "Personal Care",
+    "description": "Paws n Tails Dog shampoo & conditioner 1,9L (1,9l)",
+    "price": 9.32,
+    "stock": 27,
+    "image_url": "https://images.openfoodfacts.org/images/products/000/001/052/2769/front_en.3.400.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Festes Shampoo",
+    "brand": "N.A.E.",
+    "category": "Personal Care",
+    "description": "N.A.E. Festes Shampoo (1pcs)",
+    "price": 19.62,
+    "stock": 37,
+    "image_url": "https://images.openfoodfacts.org/images/products/401/510/032/8585/front_de.3.400.jpg"
+  },
+  {
+    "id": 17,
+    "name": "lavender dog 2in1 shampoo and conditioner",
+    "brand": "Paws n tails",
+    "category": "Personal Care",
+    "description": "Paws n tails lavender dog 2in1 shampoo and conditioner (500ml)",
+    "price": 15.85,
+    "stock": 26,
+    "image_url": "https://images.openfoodfacts.org/images/products/000/001/040/6180/front_en.13.400.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Moustidose",
+    "brand": "Shampoo",
+    "category": "Personal Care",
+    "description": "Shampoo Moustidose (400ml)",
+    "price": 3.52,
+    "stock": 39,
+    "image_url": "https://images.openfoodfacts.org/images/products/697/535/501/0599/front_en.3.400.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Andrélon Pro Nature Rosemary Refresh Shampoo",
+    "brand": "Andrélon",
+    "category": "Personal Care",
+    "description": "Andrélon Andrélon Pro Nature Rosemary Refresh Shampoo (400ml)",
+    "price": 8.07,
+    "stock": 34,
+    "image_url": "https://images.openfoodfacts.org/images/products/872/018/256/8182/front_nl.4.400.jpg"
+  },
+  {
+    "id": 20,
+    "name": "21 Shampoo by Salerm",
+    "brand": "Salerm cosméticos",
+    "category": "Personal Care",
+    "description": "Salerm cosméticos 21 Shampoo by Salerm",
+    "price": 4.67,
+    "stock": 46,
+    "image_url": ""
+  },
+  {
+    "id": 21,
+    "name": "Clinic plus shampoo",
+    "brand": "Generic",
+    "category": "Personal Care",
+    "description": "Generic Clinic plus shampoo",
+    "price": 17.34,
+    "stock": 41,
+    "image_url": ""
+  },
+  {
+    "id": 22,
+    "name": "shampoo sin sal sin olor a cebolla",
+    "brand": "ambera",
+    "category": "Personal Care",
+    "description": "ambera shampoo sin sal sin olor a cebolla",
+    "price": 8.45,
+    "stock": 50,
+    "image_url": ""
+  },
+  {
+    "id": 23,
+    "name": "Dudu Osun صابون الو",
+    "brand": "Dudu Osun",
+    "category": "Soap",
+    "description": "Dudu Osun Dudu Osun صابون الو (150g)",
+    "price": 9.8,
+    "stock": 34,
+    "image_url": "https://images.openfoodfacts.org/images/products/615/600/004/3821/front_en.3.400.jpg"
+  },
+  {
+    "id": 24,
+    "name": "بريل ازيس",
+    "brand": "Henkel",
+    "category": "Soap",
+    "description": "Henkel بريل ازيس",
+    "price": 11.0,
+    "stock": 30,
+    "image_url": "https://images.openfoodfacts.org/images/products/613/043/000/6281/front_es.5.400.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Marcel's Green Soap Handzeep orange & jasmine",
+    "brand": "Marcel's Green Soap",
+    "category": "Soap",
+    "description": "Marcel's Green Soap Marcel's Green Soap Handzeep orange & jasmine (250 ml)",
+    "price": 21.55,
+    "stock": 40,
+    "image_url": ""
+  },
+  {
+    "id": 26,
+    "name": "Dettol antibacterial soap Original",
+    "brand": "Dettol",
+    "category": "Soap",
+    "description": "Dettol Dettol antibacterial soap Original",
+    "price": 12.72,
+    "stock": 12,
+    "image_url": "https://images.openfoodfacts.org/images/products/000/005/015/8980/front_en.3.400.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Pears Soap",
+    "brand": "Generic",
+    "category": "Soap",
+    "description": "Generic Pears Soap",
+    "price": 11.07,
+    "stock": 43,
+    "image_url": "https://images.openfoodfacts.org/images/products/890/103/062/3721/front_en.10.400.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Soap",
+    "brand": "Simple",
+    "category": "Soap",
+    "description": "Simple Soap (2 x 100g)",
+    "price": 21.2,
+    "stock": 30,
+    "image_url": "https://images.openfoodfacts.org/images/products/505/480/503/9340/front_en.3.400.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Soap",
+    "brand": "Generic",
+    "category": "Soap",
+    "description": "Generic Soap (150 g)",
+    "price": 22.13,
+    "stock": 21,
+    "image_url": "https://images.openfoodfacts.org/images/products/890/128/710/0419/front_en.3.400.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Johwoni soap",
+    "brand": "Generic",
+    "category": "Soap",
+    "description": "Generic Johwoni soap",
+    "price": 20.5,
+    "stock": 41,
+    "image_url": "https://images.openfoodfacts.org/images/products/629/110/076/0459/front_en.3.400.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Papaya Soap",
+    "brand": "Generic",
+    "category": "Soap",
+    "description": "Generic Papaya Soap",
+    "price": 22.34,
+    "stock": 35,
+    "image_url": "https://images.openfoodfacts.org/images/products/890/800/010/5027/front_en.3.400.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Mrs. Meyers clean day lemon verbena soap",
+    "brand": "Mrs. Meyers Clean Day",
+    "category": "Soap",
+    "description": "Mrs. Meyers Clean Day Mrs. Meyers clean day lemon verbena soap (16 FL OZ or 473 mL)",
+    "price": 13.04,
+    "stock": 6,
+    "image_url": "https://images.openfoodfacts.org/images/products/080/812/412/1034/front_en.3.400.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Hand Soap",
+    "brand": "Mrs. Meyer's Clean Day",
+    "category": "Soap",
+    "description": "Mrs. Meyer's Clean Day Hand Soap",
+    "price": 14.45,
+    "stock": 13,
+    "image_url": "https://images.openfoodfacts.org/images/products/080/812/411/3367/front_en.3.400.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Essential clean dish soap",
+    "brand": "Polmolive",
+    "category": "Soap",
+    "description": "Polmolive Essential clean dish soap",
+    "price": 19.91,
+    "stock": 50,
+    "image_url": "https://images.openfoodfacts.org/images/products/005/800/031/2852/front_fr.3.400.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Keto MEDICATED SOAP Ketoconazole Soap",
+    "brand": "MED MANOR",
+    "category": "Soap",
+    "description": "MED MANOR Keto MEDICATED SOAP Ketoconazole Soap (50g)",
+    "price": 13.27,
+    "stock": 47,
+    "image_url": ""
+  },
+  {
+    "id": 36,
+    "name": "3in1 Soap",
+    "brand": "everyone",
+    "category": "Soap",
+    "description": "everyone 3in1 Soap",
+    "price": 3.81,
+    "stock": 44,
+    "image_url": "https://images.openfoodfacts.org/images/products/063/687/423/1327/front_en.3.400.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Dish Soap",
+    "brand": "Mrs. Meyer's Clean Day",
+    "category": "Soap",
+    "description": "Mrs. Meyer's Clean Day Dish Soap",
+    "price": 11.16,
+    "stock": 14,
+    "image_url": ""
+  },
+  {
+    "id": 38,
+    "name": "Marcel's Green Soap Handzeep orange & jasmin navulling",
+    "brand": "Marcel's Green Soap",
+    "category": "Soap",
+    "description": "Marcel's Green Soap Marcel's Green Soap Handzeep orange & jasmin navulling (0,5 l)",
+    "price": 12.35,
+    "stock": 19,
+    "image_url": ""
+  },
+  {
+    "id": 39,
+    "name": "CINTHOL LEMON SOAP 75G",
+    "brand": "GODRRJ",
+    "category": "Soap",
+    "description": "GODRRJ CINTHOL LEMON SOAP 75G (75g)",
+    "price": 20.62,
+    "stock": 12,
+    "image_url": ""
+  },
+  {
+    "id": 40,
+    "name": "Advanced Clean Hand Soap",
+    "brand": "Softsoap",
+    "category": "Soap",
+    "description": "Softsoap Advanced Clean Hand Soap",
+    "price": 15.6,
+    "stock": 34,
+    "image_url": ""
+  },
+  {
+    "id": 41,
+    "name": "Hand Soap",
+    "brand": "Ecover",
+    "category": "Soap",
+    "description": "Ecover Hand Soap (250 ml)",
+    "price": 16.67,
+    "stock": 50,
+    "image_url": ""
+  },
+  {
+    "id": 42,
+    "name": "Cleansing traditional soap with coal tar fragrance",
+    "brand": "Wright’s",
+    "category": "Soap",
+    "description": "Wright’s Cleansing traditional soap with coal tar fragrance (100 g)",
+    "price": 22.41,
+    "stock": 39,
+    "image_url": "https://images.openfoodfacts.org/images/products/505/480/503/9845/front_en.10.400.jpg"
+  },
+  {
+    "id": 43,
+    "name": "18-in-1 Tea Tree Pure-Castile Soap",
+    "brand": "Dr. Bronner's",
+    "category": "Soap",
+    "description": "Dr. Bronner's 18-in-1 Tea Tree Pure-Castile Soap",
+    "price": 7.15,
+    "stock": 30,
+    "image_url": ""
+  },
+  {
+    "id": 44,
+    "name": "Soap",
+    "brand": "Soft soap",
+    "category": "Soap",
+    "description": "Soft soap Soap",
+    "price": 13.83,
+    "stock": 46,
+    "image_url": ""
+  },
+  {
+    "id": 45,
+    "name": "equate hand soap",
+    "brand": "Generic",
+    "category": "Soap",
+    "description": "Generic equate hand soap",
+    "price": 12.79,
+    "stock": 35,
+    "image_url": ""
+  },
+  {
+    "id": 46,
+    "name": "Kid's Natural Fluoride-Free Toothpaste",
+    "brand": "Tom's of Maine",
+    "category": "Toothpaste",
+    "description": "Tom's of Maine Kid's Natural Fluoride-Free Toothpaste",
+    "price": 19.61,
+    "stock": 30,
+    "image_url": ""
+  },
+  {
+    "id": 47,
+    "name": "Natural Certified Toothpaste",
+    "brand": "Jack N' Jill",
+    "category": "Toothpaste",
+    "description": "Jack N' Jill Natural Certified Toothpaste",
+    "price": 11.24,
+    "stock": 23,
+    "image_url": ""
+  },
+  {
+    "id": 48,
+    "name": "Peppermint All-One Toothpaste",
+    "brand": "Dr. Bronner's",
+    "category": "Toothpaste",
+    "description": "Dr. Bronner's Peppermint All-One Toothpaste",
+    "price": 20.22,
+    "stock": 5,
+    "image_url": ""
+  },
+  {
+    "id": 49,
+    "name": "Mint",
+    "brand": "Revitin",
+    "category": "Toothpaste",
+    "description": "Revitin Mint",
+    "price": 2.24,
+    "stock": 46,
+    "image_url": "https://images.openfoodfacts.org/images/products/089/005/100/2203/front_en.3.400.jpg"
+  },
+  {
+    "id": 50,
+    "name": "total care",
+    "brand": "Generic",
+    "category": "Toothpaste",
+    "description": "Generic total care",
+    "price": 21.35,
+    "stock": 34,
+    "image_url": ""
+  },
+  {
+    "id": 51,
+    "name": "oral B toothpaste",
+    "brand": "oral b",
+    "category": "Toothpaste",
+    "description": "oral b oral B toothpaste",
+    "price": 19.58,
+    "stock": 36,
+    "image_url": "https://images.openfoodfacts.org/images/products/870/021/666/6367/front_en.7.400.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Toothpaste with chicken flavor",
+    "brand": "Bioline",
+    "category": "Toothpaste",
+    "description": "Bioline Toothpaste with chicken flavor (100g)",
+    "price": 9.6,
+    "stock": 17,
+    "image_url": ""
+  },
+  {
+    "id": 53,
+    "name": "Colgate total whitening toothpaste",
+    "brand": "Generic",
+    "category": "Toothpaste",
+    "description": "Generic Colgate total whitening toothpaste",
+    "price": 7.35,
+    "stock": 36,
+    "image_url": ""
+  },
+  {
+    "id": 54,
+    "name": "Colgate toothpaste",
+    "brand": "Generic",
+    "category": "Toothpaste",
+    "description": "Generic Colgate toothpaste",
+    "price": 12.0,
+    "stock": 36,
+    "image_url": ""
+  },
+  {
+    "id": 55,
+    "name": "Toothpaste",
+    "brand": "Colgate",
+    "category": "Toothpaste",
+    "description": "Colgate Toothpaste",
+    "price": 19.68,
+    "stock": 40,
+    "image_url": ""
+  },
+  {
+    "id": 56,
+    "name": "Vet’s Best",
+    "brand": "Enzymatic Toothpaste",
+    "category": "Toothpaste",
+    "description": "Enzymatic Toothpaste Vet’s Best",
+    "price": 16.44,
+    "stock": 7,
+    "image_url": ""
+  },
+  {
+    "id": 57,
+    "name": "Sodium Fluoride 5000 ppm Sensitive",
+    "brand": "Wentworth",
+    "category": "Toothpaste",
+    "description": "Wentworth Sodium Fluoride 5000 ppm Sensitive",
+    "price": 20.21,
+    "stock": 25,
+    "image_url": "https://images.openfoodfacts.org/images/products/031/152/770/4426/front_en.5.400.jpg"
+  },
+  {
+    "id": 58,
+    "name": "training toothpaste",
+    "brand": "orajel kids",
+    "category": "Toothpaste",
+    "description": "orajel kids training toothpaste",
+    "price": 11.8,
+    "stock": 11,
+    "image_url": ""
+  },
+  {
+    "id": 59,
+    "name": "Toothpaste Plaque Pro Release",
+    "brand": "Colgate Total",
+    "category": "Toothpaste",
+    "description": "Colgate Total Toothpaste Plaque Pro Release (75ml)",
+    "price": 11.37,
+    "stock": 50,
+    "image_url": "https://images.openfoodfacts.org/images/products/692/035/483/8996/front_en.3.400.jpg"
+  },
+  {
+    "id": 60,
+    "name": "SP-6 Bright White Toothpaste",
+    "brand": "MS-DRWIKEY",
+    "category": "Toothpaste",
+    "description": "MS-DRWIKEY SP-6 Bright White Toothpaste",
+    "price": 19.16,
+    "stock": 37,
+    "image_url": ""
+  },
+  {
+    "id": 61,
+    "name": "Toothpaste",
+    "brand": "Elmex",
+    "category": "Toothpaste",
+    "description": "Elmex Toothpaste",
+    "price": 7.32,
+    "stock": 16,
+    "image_url": ""
+  },
+  {
+    "id": 62,
+    "name": "Periobiotic Silver",
+    "brand": "Designs for Health",
+    "category": "Toothpaste",
+    "description": "Designs for Health Periobiotic Silver (4 oz)",
+    "price": 23.26,
+    "stock": 35,
+    "image_url": "https://images.openfoodfacts.org/images/products/087/945/200/6492/front_en.3.400.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Whiten+ Coconut Oil",
+    "brand": "Tom's of Maine",
+    "category": "Toothpaste",
+    "description": "Tom's of Maine Whiten+ Coconut Oil (4.0 oz)",
+    "price": 22.65,
+    "stock": 46,
+    "image_url": "https://images.openfoodfacts.org/images/products/082/785/401/9251/front_en.6.400.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Eye Ball Juice",
+    "brand": "Made By Dentists",
+    "category": "Toothpaste",
+    "description": "Made By Dentists Eye Ball Juice",
+    "price": 7.5,
+    "stock": 36,
+    "image_url": "https://images.openfoodfacts.org/images/products/085/003/197/0366/front_en.3.400.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Toddler",
+    "brand": "Tom's of Maine",
+    "category": "Toothpaste",
+    "description": "Tom's of Maine Toddler",
+    "price": 9.83,
+    "stock": 17,
+    "image_url": ""
+  },
+  {
+    "id": 66,
+    "name": "Reverse Cavity",
+    "brand": "Caredo",
+    "category": "Toothpaste",
+    "description": "Caredo Reverse Cavity",
+    "price": 18.32,
+    "stock": 31,
+    "image_url": "https://images.openfoodfacts.org/images/products/489/709/313/0297/front_en.3.400.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Dragon Fruit",
+    "brand": "RADIUS",
+    "category": "Toothpaste",
+    "description": "RADIUS Dragon Fruit",
+    "price": 4.79,
+    "stock": 5,
+    "image_url": ""
+  },
+  {
+    "id": 68,
+    "name": "Simply White",
+    "brand": "Tom's of Maine",
+    "category": "Toothpaste",
+    "description": "Tom's of Maine Simply White",
+    "price": 3.57,
+    "stock": 33,
+    "image_url": "https://images.openfoodfacts.org/images/products/007/732/615/9408/front_en.3.400.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Frosty Mint",
+    "brand": "Green Beaver",
+    "category": "Toothpaste",
+    "description": "Green Beaver Frosty Mint",
+    "price": 14.56,
+    "stock": 10,
+    "image_url": "https://images.openfoodfacts.org/images/products/083/463/900/0038/front_en.3.400.jpg"
+  },
+  {
+    "id": 70,
+    "name": "invisible  toothpaste",
+    "brand": "Generic",
+    "category": "Toothpaste",
+    "description": "Generic invisible  toothpaste",
+    "price": 15.23,
+    "stock": 17,
+    "image_url": ""
+  },
+  {
+    "id": 71,
+    "name": "Perly",
+    "brand": "Jaouda",
+    "category": "Snacks",
+    "description": "Jaouda Perly (100 g)",
+    "price": 7.08,
+    "stock": 44,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/124/210/0992/front_fr.172.400.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Prince Goût Chocolat au blé complet",
+    "brand": "Mondelez",
+    "category": "Snacks",
+    "description": "Mondelez Prince Goût Chocolat au blé complet (300 g)",
+    "price": 2.5,
+    "stock": 39,
+    "image_url": "https://images.openfoodfacts.org/images/products/762/221/044/9283/front_en.605.400.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Tartines craquantes au sarrasin imp",
+    "brand": "Ekibio",
+    "category": "Snacks",
+    "description": "Ekibio Tartines craquantes au sarrasin imp (160 g)",
+    "price": 23.02,
+    "stock": 47,
+    "image_url": "https://images.openfoodfacts.org/images/products/000/000/617/5700/front_fr.90.400.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Sésame",
+    "brand": "Gerblé",
+    "category": "Snacks",
+    "description": "Gerblé Sésame (230 g)",
+    "price": 18.55,
+    "stock": 27,
+    "image_url": "https://images.openfoodfacts.org/images/products/317/568/001/1480/front_fr.325.400.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Excellence 70% cacao noir intense",
+    "brand": "Lindt",
+    "category": "Snacks",
+    "description": "Lindt Excellence 70% cacao noir intense (100 g)",
+    "price": 4.98,
+    "stock": 25,
+    "image_url": "https://images.openfoodfacts.org/images/products/304/692/002/2651/front_en.159.400.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Excellence 85% cacao",
+    "brand": "Lindt",
+    "category": "Snacks",
+    "description": "Lindt Excellence 85% cacao (100g)",
+    "price": 16.45,
+    "stock": 41,
+    "image_url": "https://images.openfoodfacts.org/images/products/304/692/002/2606/front_en.102.400.jpg"
+  },
+  {
+    "id": 77,
+    "name": "Tonik",
+    "brand": "tonik",
+    "category": "Snacks",
+    "description": "tonik Tonik (22 g)",
+    "price": 18.81,
+    "stock": 36,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/103/100/5064/front_fr.56.400.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Fourrés Chocolat Noir",
+    "brand": "Bjorg",
+    "category": "Snacks",
+    "description": "Bjorg Fourrés Chocolat Noir (225 g)",
+    "price": 17.02,
+    "stock": 13,
+    "image_url": "https://images.openfoodfacts.org/images/products/322/982/010/0234/front_fr.246.400.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Brioche Tranchée Bio 400g",
+    "brand": "La Boulangère",
+    "category": "Snacks",
+    "description": "La Boulangère Brioche Tranchée Bio 400g (400 g)",
+    "price": 13.78,
+    "stock": 35,
+    "image_url": "https://images.openfoodfacts.org/images/products/328/423/000/6408/front_en.160.400.jpg"
+  },
+  {
+    "id": 80,
+    "name": "AUTHENTIQUE",
+    "brand": "wasa",
+    "category": "Snacks",
+    "description": "wasa AUTHENTIQUE (275 g)",
+    "price": 14.73,
+    "stock": 43,
+    "image_url": "https://images.openfoodfacts.org/images/products/730/040/048/1595/front_fr.265.400.jpg"
+  },
+  {
+    "id": 81,
+    "name": "Fibres",
+    "brand": "wasa",
+    "category": "Snacks",
+    "description": "wasa Fibres (230 g)",
+    "price": 21.21,
+    "stock": 37,
+    "image_url": "https://images.openfoodfacts.org/images/products/730/040/048/1588/front_en.269.400.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Pomme Noisette",
+    "brand": "Gerblé",
+    "category": "Snacks",
+    "description": "Gerblé Pomme Noisette (230 g)",
+    "price": 8.04,
+    "stock": 31,
+    "image_url": "https://images.openfoodfacts.org/images/products/317/568/185/1849/front_fr.267.400.jpg"
+  },
+  {
+    "id": 83,
+    "name": "Figue & son",
+    "brand": "Gerblé",
+    "category": "Snacks",
+    "description": "Gerblé Figue & son (210 g)",
+    "price": 16.54,
+    "stock": 13,
+    "image_url": "https://images.openfoodfacts.org/images/products/325/149/033/2080/front_fr.180.400.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Печиво zero sugar free",
+    "brand": "gullón",
+    "category": "Snacks",
+    "description": "gullón Печиво zero sugar free (170 g)",
+    "price": 19.13,
+    "stock": 42,
+    "image_url": "https://images.openfoodfacts.org/images/products/841/037/600/9392/front_en.104.400.jpg"
+  },
+  {
+    "id": 85,
+    "name": "CRISTALINE Eau De Source 0.5L",
+    "brand": "Cristaline",
+    "category": "Snacks",
+    "description": "Cristaline CRISTALINE Eau De Source 0.5L (500 ml)",
+    "price": 8.39,
+    "stock": 31,
+    "image_url": "https://images.openfoodfacts.org/images/products/326/884/000/1008/front_fr.422.400.jpg"
+  },
+  {
+    "id": 86,
+    "name": "Biscuit raisins",
+    "brand": "Gerblé",
+    "category": "Snacks",
+    "description": "Gerblé Biscuit raisins (270 g)",
+    "price": 10.28,
+    "stock": 14,
+    "image_url": "https://images.openfoodfacts.org/images/products/317/568/185/1856/front_fr.210.400.jpg"
+  },
+  {
+    "id": 87,
+    "name": "Henry’s",
+    "brand": "Henry's",
+    "category": "Snacks",
+    "description": "Henry's Henry’s (42g)",
+    "price": 13.2,
+    "stock": 17,
+    "image_url": "https://images.openfoodfacts.org/images/products/336/260/001/1044/front_fr.50.400.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Tuc Original",
+    "brand": "Tuc",
+    "category": "Snacks",
+    "description": "Tuc Tuc Original (100g)",
+    "price": 9.96,
+    "stock": 11,
+    "image_url": "https://images.openfoodfacts.org/images/products/541/004/100/1204/front_en.520.400.jpg"
+  },
+  {
+    "id": 89,
+    "name": "Шоколад 85% какаова маса",
+    "brand": "J. D. GROSS",
+    "category": "Snacks",
+    "description": "J. D. GROSS Шоколад 85% какаова маса (125g)",
+    "price": 10.26,
+    "stock": 9,
+    "image_url": "https://images.openfoodfacts.org/images/products/000/002/099/5553/front_en.380.400.jpg"
+  },
+  {
+    "id": 90,
+    "name": "Avoine chocolat",
+    "brand": "Bjorg",
+    "category": "Snacks",
+    "description": "Bjorg Avoine chocolat (130 g)",
+    "price": 2.66,
+    "stock": 27,
+    "image_url": "https://images.openfoodfacts.org/images/products/322/982/079/4525/front_fr.142.400.jpg"
+  },
+  {
+    "id": 91,
+    "name": "Pains au lait",
+    "brand": "Brioche Pasquier",
+    "category": "Snacks",
+    "description": "Brioche Pasquier Pains au lait (x10 (350g))",
+    "price": 16.04,
+    "stock": 6,
+    "image_url": "https://images.openfoodfacts.org/images/products/325/654/000/0698/front_fr.201.400.jpg"
+  },
+  {
+    "id": 92,
+    "name": "La gâche tranchée",
+    "brand": "La Fournée Dorée",
+    "category": "Snacks",
+    "description": "La Fournée Dorée La gâche tranchée (500 g)",
+    "price": 2.08,
+    "stock": 35,
+    "image_url": "https://images.openfoodfacts.org/images/products/358/722/000/2252/front_fr.236.400.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Biscuits NUTELLA Biscuits Noisettes et Cacao x22 - 304g",
+    "brand": "Nutella",
+    "category": "Snacks",
+    "description": "Nutella Biscuits NUTELLA Biscuits Noisettes et Cacao x22 - 304g (304 g)",
+    "price": 8.87,
+    "stock": 24,
+    "image_url": "https://images.openfoodfacts.org/images/products/800/050/031/0427/front_fr.539.400.jpg"
+  },
+  {
+    "id": 94,
+    "name": "Biscuits pavot citron",
+    "brand": "Gerblé",
+    "category": "Snacks",
+    "description": "Gerblé Biscuits pavot citron (200 g)",
+    "price": 11.63,
+    "stock": 12,
+    "image_url": "https://images.openfoodfacts.org/images/products/317/568/106/6632/front_fr.152.400.jpg"
+  },
+  {
+    "id": 95,
+    "name": "Sidi Ali",
+    "brand": "سيدي علي",
+    "category": "Beverages",
+    "description": "سيدي علي Sidi Ali (33 cl)",
+    "price": 12.7,
+    "stock": 34,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/103/500/0430/front_en.104.400.jpg"
+  },
+  {
+    "id": 96,
+    "name": "Eau minérale naturelle",
+    "brand": "sidi ali",
+    "category": "Beverages",
+    "description": "sidi ali Eau minérale naturelle (1,5 L)",
+    "price": 14.36,
+    "stock": 15,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/103/500/0058/front_en.134.400.jpg"
+  },
+  {
+    "id": 97,
+    "name": "Sidi Ali",
+    "brand": "Sidi Ali",
+    "category": "Beverages",
+    "description": "Sidi Ali Sidi Ali (2 L)",
+    "price": 4.96,
+    "stock": 38,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/103/500/2175/front_fr.118.400.jpg"
+  },
+  {
+    "id": 98,
+    "name": "اكوافينا",
+    "brand": "AQUAFINA",
+    "category": "Beverages",
+    "description": "AQUAFINA اكوافينا (33cl)",
+    "price": 6.16,
+    "stock": 44,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/125/242/1568/front_en.62.400.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Pain De Mie Bio",
+    "brand": "La Boulangère",
+    "category": "Beverages",
+    "description": "La Boulangère Pain De Mie Bio (500 g)",
+    "price": 9.07,
+    "stock": 43,
+    "image_url": "https://images.openfoodfacts.org/images/products/376/004/979/0214/front_en.262.400.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Eau minéral naturelle",
+    "brand": "Ain atlas",
+    "category": "Beverages",
+    "description": "Ain atlas Eau minéral naturelle (33cl)",
+    "price": 6.75,
+    "stock": 50,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/103/550/2828/front_fr.3.400.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Coca-Cola Original Taste",
+    "brand": "Coca Cola Life",
+    "category": "Beverages",
+    "description": "Coca Cola Life Coca-Cola Original Taste (1 L)",
+    "price": 3.06,
+    "stock": 30,
+    "image_url": "https://images.openfoodfacts.org/images/products/544/900/005/4227/front_en.543.400.jpg"
+  },
+  {
+    "id": 102,
+    "name": "cruesly mélange de noix",
+    "brand": "Quaker",
+    "category": "Beverages",
+    "description": "Quaker cruesly mélange de noix (450 g)",
+    "price": 2.27,
+    "stock": 46,
+    "image_url": "https://images.openfoodfacts.org/images/products/316/893/001/0265/front_en.297.400.jpg"
+  },
+  {
+    "id": 103,
+    "name": "14 Maxi Tranches complet sans sucres ajoutés",
+    "brand": "Jacquet",
+    "category": "Beverages",
+    "description": "Jacquet 14 Maxi Tranches complet sans sucres ajoutés (550 g)",
+    "price": 16.09,
+    "stock": 8,
+    "image_url": "https://images.openfoodfacts.org/images/products/302/933/002/2428/front_fr.311.400.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Coke Zero",
+    "brand": "Coca-Cola",
+    "category": "Beverages",
+    "description": "Coca-Cola Coke Zero (330 ml)",
+    "price": 11.67,
+    "stock": 46,
+    "image_url": "https://images.openfoodfacts.org/images/products/544/900/021/4799/front_en.363.400.jpg"
+  },
+  {
+    "id": 105,
+    "name": "كيفير",
+    "brand": "Jaouda",
+    "category": "Beverages",
+    "description": "Jaouda كيفير (320g)",
+    "price": 5.74,
+    "stock": 50,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/126/696/3207/front_en.42.400.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Ain Atlas",
+    "brand": "Ain Atlas",
+    "category": "Beverages",
+    "description": "Ain Atlas Ain Atlas (1.5 L)",
+    "price": 16.77,
+    "stock": 6,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/103/500/1635/front_en.38.400.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Amandes décortiquées",
+    "brand": "Alesto",
+    "category": "Beverages",
+    "description": "Alesto Amandes décortiquées (200g)",
+    "price": 4.41,
+    "stock": 38,
+    "image_url": "https://images.openfoodfacts.org/images/products/000/002/072/4696/front_en.384.400.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Muesli Superfruits Raisins, cassis, cranberry, myrtille",
+    "brand": "Bjorg",
+    "category": "Beverages",
+    "description": "Bjorg Muesli Superfruits Raisins, cassis, cranberry, myrtille (375g)",
+    "price": 6.42,
+    "stock": 38,
+    "image_url": "https://images.openfoodfacts.org/images/products/322/982/078/2560/front_fr.220.400.jpg"
+  },
+  {
+    "id": 109,
+    "name": "coca-cola",
+    "brand": "Coca-Cola",
+    "category": "Beverages",
+    "description": "Coca-Cola coca-cola (33 cl)",
+    "price": 21.63,
+    "stock": 13,
+    "image_url": "https://images.openfoodfacts.org/images/products/544/900/000/0996/front_en.1035.400.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Avoine - Boisson biologique",
+    "brand": "Bjorg",
+    "category": "Beverages",
+    "description": "Bjorg Avoine - Boisson biologique (1l)",
+    "price": 5.11,
+    "stock": 16,
+    "image_url": "https://images.openfoodfacts.org/images/products/322/982/079/2132/front_fr.178.400.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Anacardo/Castanha-de-caju natural",
+    "brand": "Alesto",
+    "category": "Beverages",
+    "description": "Alesto Anacardo/Castanha-de-caju natural (200g)",
+    "price": 10.27,
+    "stock": 32,
+    "image_url": "https://images.openfoodfacts.org/images/products/000/002/026/7605/front_en.503.400.jpg"
+  },
+  {
+    "id": 112,
+    "name": "S. Pellegrino Water",
+    "brand": "Nestlé",
+    "category": "Beverages",
+    "description": "Nestlé S. Pellegrino Water (1 L)",
+    "price": 13.49,
+    "stock": 10,
+    "image_url": "https://images.openfoodfacts.org/images/products/800/227/001/4901/front_en.304.400.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Hule D'olive",
+    "brand": "زيت الزيتون واد سوس",
+    "category": "Beverages",
+    "description": "زيت الزيتون واد سوس Hule D'olive (500ml مل)",
+    "price": 10.12,
+    "stock": 16,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/109/900/0247/front_fr.4.400.jpg"
+  },
+  {
+    "id": 114,
+    "name": "FIOCCHI D'AVENA",
+    "brand": "Crownfield",
+    "category": "Beverages",
+    "description": "Crownfield FIOCCHI D'AVENA (500g)",
+    "price": 9.24,
+    "stock": 21,
+    "image_url": "https://images.openfoodfacts.org/images/products/000/002/000/3166/front_en.478.400.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Aïn Soltane",
+    "brand": "سلطان",
+    "category": "Beverages",
+    "description": "سلطان Aïn Soltane (33 cl)",
+    "price": 11.94,
+    "stock": 31,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/124/836/0130/front_fr.52.400.jpg"
+  },
+  {
+    "id": 116,
+    "name": "Boisson à l'amande, sans sucres",
+    "brand": "Vemondo",
+    "category": "Beverages",
+    "description": "Vemondo Boisson à l'amande, sans sucres (1l)",
+    "price": 7.97,
+    "stock": 16,
+    "image_url": "https://images.openfoodfacts.org/images/products/405/648/934/6357/front_en.327.400.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Biscuits Soja Figue",
+    "brand": "Gerblé",
+    "category": "Biscuits",
+    "description": "Gerblé Biscuits Soja Figue (270 g)",
+    "price": 17.61,
+    "stock": 40,
+    "image_url": "https://images.openfoodfacts.org/images/products/317/568/185/1863/front_fr.152.400.jpg"
+  },
+  {
+    "id": 118,
+    "name": "Sable coco Henry s 42g",
+    "brand": "Henry's",
+    "category": "Biscuits",
+    "description": "Henry's Sable coco Henry s 42g (42g)",
+    "price": 18.4,
+    "stock": 18,
+    "image_url": "https://images.openfoodfacts.org/images/products/336/260/001/1228/front_fr.38.400.jpg"
+  },
+  {
+    "id": 119,
+    "name": "Biscuit lait chocolat",
+    "brand": "Gerblé",
+    "category": "Biscuits",
+    "description": "Gerblé Biscuit lait chocolat (230 g)",
+    "price": 14.32,
+    "stock": 41,
+    "image_url": "https://images.openfoodfacts.org/images/products/317/568/001/1534/front_fr.186.400.jpg"
+  },
+  {
+    "id": 120,
+    "name": "Protein Cacahuetes🥜 & Chocolat🍫",
+    "brand": "Nature Valley Protein",
+    "category": "Biscuits",
+    "description": "Nature Valley Protein Protein Cacahuetes🥜 & Chocolat🍫 (160 g (4x40 g))",
+    "price": 7.53,
+    "stock": 40,
+    "image_url": ""
+  },
+  {
+    "id": 121,
+    "name": "P'tit Nature Complet",
+    "brand": "Bjorg",
+    "category": "Biscuits",
+    "description": "Bjorg P'tit Nature Complet (200 g)",
+    "price": 4.48,
+    "stock": 21,
+    "image_url": "https://images.openfoodfacts.org/images/products/322/982/002/1027/front_fr.262.400.jpg"
+  },
+  {
+    "id": 122,
+    "name": "Cookie cacao pépites Sans Sucre",
+    "brand": "Gerblé",
+    "category": "Biscuits",
+    "description": "Gerblé Cookie cacao pépites Sans Sucre (130 g)",
+    "price": 3.67,
+    "stock": 32,
+    "image_url": "https://images.openfoodfacts.org/images/products/317/568/110/5423/front_fr.135.400.jpg"
+  },
+  {
+    "id": 123,
+    "name": "Goûter pépites de chocolat",
+    "brand": "Gerblé",
+    "category": "Biscuits",
+    "description": "Gerblé Goûter pépites de chocolat (250 g)",
+    "price": 5.35,
+    "stock": 48,
+    "image_url": "https://images.openfoodfacts.org/images/products/325/149/030/7002/front_fr.120.400.jpg"
+  },
+  {
+    "id": 124,
+    "name": "Chips de lentilles saveur fines herbes",
+    "brand": "Vico",
+    "category": "Biscuits",
+    "description": "Vico Chips de lentilles saveur fines herbes (85 g)",
+    "price": 2.86,
+    "stock": 27,
+    "image_url": "https://images.openfoodfacts.org/images/products/333/697/180/5021/front_en.203.400.jpg"
+  },
+  {
+    "id": 125,
+    "name": "Sablés Anglais L'Original",
+    "brand": "McVitie's",
+    "category": "Biscuits",
+    "description": "McVitie's Sablés Anglais L'Original (400 g)",
+    "price": 17.75,
+    "stock": 16,
+    "image_url": "https://images.openfoodfacts.org/images/products/500/016/819/8491/front_en.193.400.jpg"
+  },
+  {
+    "id": 126,
+    "name": "Granola L'Original",
+    "brand": "LU",
+    "category": "Biscuits",
+    "description": "LU Granola L'Original (200 g e)",
+    "price": 16.03,
+    "stock": 11,
+    "image_url": "https://images.openfoodfacts.org/images/products/762/221/060/1988/front_en.168.400.jpg"
+  },
+  {
+    "id": 127,
+    "name": "KING COOKIES",
+    "brand": "Excelo",
+    "category": "Biscuits",
+    "description": "Excelo KING COOKIES",
+    "price": 12.9,
+    "stock": 22,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/125/934/3108/front_fr.25.400.jpg"
+  },
+  {
+    "id": 128,
+    "name": "Biscuit complet au germe de blé",
+    "brand": "Gerblé",
+    "category": "Biscuits",
+    "description": "Gerblé Biscuit complet au germe de blé (210 g)",
+    "price": 14.73,
+    "stock": 9,
+    "image_url": "https://images.openfoodfacts.org/images/products/325/149/032/0001/front_en.138.400.jpg"
+  },
+  {
+    "id": 129,
+    "name": "céréales et légumes, façon pad thaï, bio",
+    "brand": "Céréal BIO",
+    "category": "Noodles",
+    "description": "Céréal BIO céréales et légumes, façon pad thaï, bio (220g)",
+    "price": 8.05,
+    "stock": 25,
+    "image_url": "https://images.openfoodfacts.org/images/products/317/568/125/9089/front_fr.69.400.jpg"
+  },
+  {
+    "id": 130,
+    "name": "Indomie instant noodles baladi chicken flavor",
+    "brand": "Generic",
+    "category": "Noodles",
+    "description": "Generic Indomie instant noodles baladi chicken flavor (70g)",
+    "price": 5.13,
+    "stock": 21,
+    "image_url": "https://images.openfoodfacts.org/images/products/008/968/612/0073/front_en.118.400.jpg"
+  },
+  {
+    "id": 131,
+    "name": "maggi",
+    "brand": "Maggi",
+    "category": "Noodles",
+    "description": "Maggi maggi (75)",
+    "price": 2.91,
+    "stock": 31,
+    "image_url": "https://images.openfoodfacts.org/images/products/890/105/801/7687/front_en.13.400.jpg"
+  },
+  {
+    "id": 132,
+    "name": "Buldak Hot Chicken",
+    "brand": "Samyang",
+    "category": "Noodles",
+    "description": "Samyang Buldak Hot Chicken (130unknown)",
+    "price": 21.0,
+    "stock": 21,
+    "image_url": "https://images.openfoodfacts.org/images/products/880/107/311/6467/front_de.49.400.jpg"
+  },
+  {
+    "id": 133,
+    "name": "Vermicelles de Riz",
+    "brand": "Si Wan",
+    "category": "Noodles",
+    "description": "Si Wan Vermicelles de Riz (250 g)",
+    "price": 10.83,
+    "stock": 5,
+    "image_url": "https://images.openfoodfacts.org/images/products/400/235/965/0178/front_en.134.400.jpg"
+  },
+  {
+    "id": 134,
+    "name": "Indomie",
+    "brand": "indomie",
+    "category": "Noodles",
+    "description": "indomie Indomie (70g)",
+    "price": 2.79,
+    "stock": 20,
+    "image_url": "https://images.openfoodfacts.org/images/products/528/500/039/7465/front_ar.21.400.jpg"
+  },
+  {
+    "id": 135,
+    "name": "maggi",
+    "brand": "Nestlé",
+    "category": "Noodles",
+    "description": "Nestlé maggi (70)",
+    "price": 2.02,
+    "stock": 12,
+    "image_url": "https://images.openfoodfacts.org/images/products/890/105/800/0290/front_en.26.400.jpg"
+  },
+  {
+    "id": 136,
+    "name": "Beef Flavour",
+    "brand": "Yum Yum",
+    "category": "Noodles",
+    "description": "Yum Yum Beef Flavour (60 g)",
+    "price": 3.61,
+    "stock": 40,
+    "image_url": "https://images.openfoodfacts.org/images/products/885/201/810/1017/front_en.207.400.jpg"
+  },
+  {
+    "id": 137,
+    "name": "Ramen",
+    "brand": "Noody",
+    "category": "Noodles",
+    "description": "Noody Ramen",
+    "price": 14.47,
+    "stock": 27,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/126/997/0417/front_fr.5.400.jpg"
+  },
+  {
+    "id": 138,
+    "name": "Nouilles aux œufs",
+    "brand": "Suzi Wan",
+    "category": "Noodles",
+    "description": "Suzi Wan Nouilles aux œufs (333 g)",
+    "price": 8.59,
+    "stock": 34,
+    "image_url": "https://images.openfoodfacts.org/images/products/400/235/901/3119/front_en.93.400.jpg"
+  },
+  {
+    "id": 139,
+    "name": "Poulet citron",
+    "brand": "indomie",
+    "category": "Noodles",
+    "description": "indomie Poulet citron (70 g)",
+    "price": 15.16,
+    "stock": 46,
+    "image_url": "https://images.openfoodfacts.org/images/products/528/500/039/6819/front_fr.3.400.jpg"
+  },
+  {
+    "id": 140,
+    "name": "Vegetable Flavour",
+    "brand": "YumYum",
+    "category": "Noodles",
+    "description": "YumYum Vegetable Flavour (60g)",
+    "price": 17.57,
+    "stock": 7,
+    "image_url": "https://images.openfoodfacts.org/images/products/885/201/810/1062/front_en.179.400.jpg"
+  },
+  {
+    "id": 141,
+    "name": "Aloo Sev",
+    "brand": "Balaji",
+    "category": "Noodles",
+    "description": "Balaji Aloo Sev (22g)",
+    "price": 22.31,
+    "stock": 25,
+    "image_url": "https://images.openfoodfacts.org/images/products/890/601/050/0337/front_en.4.400.jpg"
+  },
+  {
+    "id": 142,
+    "name": "Ramen saveur poulet teriyaki",
+    "brand": "Tanoshi",
+    "category": "Noodles",
+    "description": "Tanoshi Ramen saveur poulet teriyaki (360g)",
+    "price": 15.18,
+    "stock": 43,
+    "image_url": "https://images.openfoodfacts.org/images/products/322/982/079/4723/front_fr.48.400.jpg"
+  },
+  {
+    "id": 143,
+    "name": "MACCHERONI N°44",
+    "brand": "Barilla",
+    "category": "Noodles",
+    "description": "Barilla MACCHERONI N°44 (500g)",
+    "price": 11.91,
+    "stock": 48,
+    "image_url": "https://images.openfoodfacts.org/images/products/807/680/805/0440/front_en.271.400.jpg"
+  },
+  {
+    "id": 144,
+    "name": "Mie noodles",
+    "brand": "Vitasia",
+    "category": "Noodles",
+    "description": "Vitasia Mie noodles (250g)",
+    "price": 21.26,
+    "stock": 48,
+    "image_url": "https://images.openfoodfacts.org/images/products/405/648/961/7822/front_fr.12.400.jpg"
+  },
+  {
+    "id": 145,
+    "name": "Nouilles de blé instantanées saveur poulet",
+    "brand": "Tien Shan",
+    "category": "Noodles",
+    "description": "Tien Shan Nouilles de blé instantanées saveur poulet (85 g)",
+    "price": 9.92,
+    "stock": 37,
+    "image_url": "https://images.openfoodfacts.org/images/products/322/982/078/3017/front_fr.36.400.jpg"
+  },
+  {
+    "id": 146,
+    "name": "Soba Cup Noodles Teriyaki",
+    "brand": "Cup Noodles",
+    "category": "Noodles",
+    "description": "Cup Noodles Soba Cup Noodles Teriyaki (90g)",
+    "price": 16.83,
+    "stock": 21,
+    "image_url": "https://images.openfoodfacts.org/images/products/599/752/331/3159/front_en.90.400.jpg"
+  },
+  {
+    "id": 147,
+    "name": "Carbiana Buldak Spicy Ramen",
+    "brand": "Samyang",
+    "category": "Noodles",
+    "description": "Samyang Carbiana Buldak Spicy Ramen (130g)",
+    "price": 10.25,
+    "stock": 27,
+    "image_url": "https://images.openfoodfacts.org/images/products/880/107/311/3893/front_en.277.400.jpg"
+  },
+  {
+    "id": 148,
+    "name": "Instant Noodles Mi Goreng",
+    "brand": "indomie",
+    "category": "Noodles",
+    "description": "indomie Instant Noodles Mi Goreng (80g)",
+    "price": 2.8,
+    "stock": 50,
+    "image_url": "https://images.openfoodfacts.org/images/products/008/968/612/0714/front_en.61.400.jpg"
+  },
+  {
+    "id": 149,
+    "name": "Noodles aux oeufs",
+    "brand": "Carrefour",
+    "category": "Noodles",
+    "description": "Carrefour Noodles aux oeufs (250 g)",
+    "price": 11.33,
+    "stock": 6,
+    "image_url": "https://images.openfoodfacts.org/images/products/324/541/265/4305/front_fr.59.400.jpg"
+  },
+  {
+    "id": 150,
+    "name": "Nudeln Trofie",
+    "brand": "Barilla",
+    "category": "Noodles",
+    "description": "Barilla Nudeln Trofie (500 g)",
+    "price": 7.83,
+    "stock": 26,
+    "image_url": "https://images.openfoodfacts.org/images/products/807/680/953/7711/front_en.172.400.jpg"
+  },
+  {
+    "id": 151,
+    "name": "Medium Egg Noodles",
+    "brand": "Sharwood's",
+    "category": "Noodles",
+    "description": "Sharwood's Medium Egg Noodles (226g)",
+    "price": 8.02,
+    "stock": 12,
+    "image_url": "https://images.openfoodfacts.org/images/products/500/035/492/4712/front_en.22.400.jpg"
+  },
+  {
+    "id": 152,
+    "name": "Mian Tiao saveur boeuf - 85 g - Tien Shan",
+    "brand": "Tien Shan",
+    "category": "Noodles",
+    "description": "Tien Shan Mian Tiao saveur boeuf - 85 g - Tien Shan (85 g)",
+    "price": 8.18,
+    "stock": 31,
+    "image_url": "https://images.openfoodfacts.org/images/products/322/982/078/3031/front_fr.21.400.jpg"
+  },
+  {
+    "id": 153,
+    "name": "MAGGI Bouillon KUB Volaille Réduit en sel de -25% 120g",
+    "brand": "Maggi",
+    "category": "Cooking Oil",
+    "description": "Maggi MAGGI Bouillon KUB Volaille Réduit en sel de -25% 120g (120 g)",
+    "price": 8.67,
+    "stock": 6,
+    "image_url": "https://images.openfoodfacts.org/images/products/761/303/239/7623/front_en.174.400.jpg"
+  },
+  {
+    "id": 154,
+    "name": "MAGGI Bouillon KUB Bœuf",
+    "brand": "Maggi",
+    "category": "Cooking Oil",
+    "description": "Maggi MAGGI Bouillon KUB Bœuf (180 g)",
+    "price": 13.7,
+    "stock": 26,
+    "image_url": "https://images.openfoodfacts.org/images/products/761/303/368/7983/front_en.239.400.jpg"
+  },
+  {
+    "id": 155,
+    "name": "Bouillon saveur volaille",
+    "brand": "Bio Village",
+    "category": "Cooking Oil",
+    "description": "Bio Village Bouillon saveur volaille (80 g)",
+    "price": 5.94,
+    "stock": 8,
+    "image_url": "https://images.openfoodfacts.org/images/products/356/470/714/9648/front_en.46.400.jpg"
+  },
+  {
+    "id": 156,
+    "name": "Olive oil",
+    "brand": "Fry light",
+    "category": "Cooking Oil",
+    "description": "Fry light Olive oil (190ml)",
+    "price": 17.74,
+    "stock": 12,
+    "image_url": "https://images.openfoodfacts.org/images/products/500/044/200/7594/front_en.48.400.jpg"
+  },
+  {
+    "id": 157,
+    "name": "Soja Gratin Bio",
+    "brand": "Bjorg",
+    "category": "Cooking Oil",
+    "description": "Bjorg Soja Gratin Bio (20 cl)",
+    "price": 5.15,
+    "stock": 12,
+    "image_url": "https://images.openfoodfacts.org/images/products/322/982/016/5431/front_fr.25.400.jpg"
+  },
+  {
+    "id": 158,
+    "name": "Healthier Oil for Cooking (Red Palm Fruit & Rapeseed Oil)",
+    "brand": "Carotino",
+    "category": "Cooking Oil",
+    "description": "Carotino Healthier Oil for Cooking (Red Palm Fruit & Rapeseed Oil)",
+    "price": 4.16,
+    "stock": 13,
+    "image_url": "https://images.openfoodfacts.org/images/products/955/712/900/8819/front_en.14.400.jpg"
+  },
+  {
+    "id": 159,
+    "name": "100% Italian Extra Virgin Olive Oil",
+    "brand": "Kirkland Signature",
+    "category": "Cooking Oil",
+    "description": "Kirkland Signature 100% Italian Extra Virgin Olive Oil (2 l (2 qt 3.6 fl oz))",
+    "price": 13.26,
+    "stock": 43,
+    "image_url": "https://images.openfoodfacts.org/images/products/009/661/971/0553/front_en.36.400.jpg"
+  },
+  {
+    "id": 160,
+    "name": "No-Stick Cooking Spray",
+    "brand": "PAM",
+    "category": "Cooking Oil",
+    "description": "PAM No-Stick Cooking Spray (340g)",
+    "price": 16.08,
+    "stock": 46,
+    "image_url": "https://images.openfoodfacts.org/images/products/006/414/403/0941/front_en.29.400.jpg"
+  },
+  {
+    "id": 161,
+    "name": "Frylight Sunflower Oil Spray 190ml",
+    "brand": "Frylight",
+    "category": "Cooking Oil",
+    "description": "Frylight Frylight Sunflower Oil Spray 190ml (190ml)",
+    "price": 8.3,
+    "stock": 32,
+    "image_url": "https://images.openfoodfacts.org/images/products/500/044/200/7617/front_en.56.400.jpg"
+  },
+  {
+    "id": 162,
+    "name": "Cooking spray",
+    "brand": "Generic",
+    "category": "Cooking Oil",
+    "description": "Generic Cooking spray",
+    "price": 14.51,
+    "stock": 27,
+    "image_url": "https://images.openfoodfacts.org/images/products/006/414/403/0316/front_en.11.400.jpg"
+  },
+  {
+    "id": 163,
+    "name": "Double cream",
+    "brand": "The coconut collab",
+    "category": "Cooking Oil",
+    "description": "The coconut collab Double cream (220ml)",
+    "price": 10.84,
+    "stock": 29,
+    "image_url": "https://images.openfoodfacts.org/images/products/506/042/681/2484/front_en.24.400.jpg"
+  },
+  {
+    "id": 164,
+    "name": "Mild and light rapeseed oil cooking spray",
+    "brand": "Fry light",
+    "category": "Cooking Oil",
+    "description": "Fry light Mild and light rapeseed oil cooking spray (190 ml)",
+    "price": 6.88,
+    "stock": 31,
+    "image_url": "https://images.openfoodfacts.org/images/products/500/044/200/8003/front_en.3.400.jpg"
+  },
+  {
+    "id": 165,
+    "name": "Canola Oil Cooking Spray",
+    "brand": "Kirkland Signature",
+    "category": "Cooking Oil",
+    "description": "Kirkland Signature Canola Oil Cooking Spray (482 g)",
+    "price": 16.41,
+    "stock": 13,
+    "image_url": "https://images.openfoodfacts.org/images/products/009/661/942/0100/front_en.33.400.jpg"
+  },
+  {
+    "id": 166,
+    "name": "Olive Oil Cooking Spray",
+    "brand": "Aldi",
+    "category": "Cooking Oil",
+    "description": "Aldi Olive Oil Cooking Spray (7 oz)",
+    "price": 5.63,
+    "stock": 6,
+    "image_url": "https://images.openfoodfacts.org/images/products/409/910/002/7242/front_en.3.400.jpg"
+  },
+  {
+    "id": 167,
+    "name": "Olive Oil Non-Stick Cooking Spray",
+    "brand": "Member's Mark",
+    "category": "Cooking Oil",
+    "description": "Member's Mark Olive Oil Non-Stick Cooking Spray (7 oz)",
+    "price": 16.39,
+    "stock": 39,
+    "image_url": "https://images.openfoodfacts.org/images/products/007/874/222/5081/front_en.13.400.jpg"
+  },
+  {
+    "id": 168,
+    "name": "PAM Olive Oil Cooking Spray",
+    "brand": "Generic",
+    "category": "Cooking Oil",
+    "description": "Generic PAM Olive Oil Cooking Spray",
+    "price": 16.88,
+    "stock": 30,
+    "image_url": ""
+  },
+  {
+    "id": 169,
+    "name": "Napolina Light and Mild Olive Oil",
+    "brand": "Generic",
+    "category": "Cooking Oil",
+    "description": "Generic Napolina Light and Mild Olive Oil (500 ml)",
+    "price": 21.51,
+    "stock": 14,
+    "image_url": "https://images.openfoodfacts.org/images/products/500/023/291/9991/front_en.9.400.jpg"
+  },
+  {
+    "id": 170,
+    "name": "Spray Light Olive Oil",
+    "brand": "Aldi",
+    "category": "Cooking Oil",
+    "description": "Aldi Spray Light Olive Oil",
+    "price": 6.64,
+    "stock": 6,
+    "image_url": "https://images.openfoodfacts.org/images/products/408/860/036/0539/front_en.8.400.jpg"
+  },
+  {
+    "id": 171,
+    "name": "Butter Flavored Non-Stick Cooking Spray",
+    "brand": "Great Value",
+    "category": "Cooking Oil",
+    "description": "Great Value Butter Flavored Non-Stick Cooking Spray",
+    "price": 7.73,
+    "stock": 35,
+    "image_url": "https://images.openfoodfacts.org/images/products/007/874/222/9423/front_en.4.400.jpg"
+  },
+  {
+    "id": 172,
+    "name": "Organic Cooking Spray with Virgin Coconut Oil",
+    "brand": "The Groovy Food Company",
+    "category": "Cooking Oil",
+    "description": "The Groovy Food Company Organic Cooking Spray with Virgin Coconut Oil (190 ml)",
+    "price": 10.9,
+    "stock": 25,
+    "image_url": "https://images.openfoodfacts.org/images/products/503/869/546/0194/front_en.16.400.jpg"
+  },
+  {
+    "id": 173,
+    "name": "Vegetable Oil Cooking Spray",
+    "brand": "Great Value",
+    "category": "Cooking Oil",
+    "description": "Great Value Vegetable Oil Cooking Spray (8 oz)",
+    "price": 4.62,
+    "stock": 45,
+    "image_url": "https://images.openfoodfacts.org/images/products/007/874/222/9416/front_en.18.400.jpg"
+  },
+  {
+    "id": 174,
+    "name": "Organic olive oil cooking spray",
+    "brand": "Generic",
+    "category": "Cooking Oil",
+    "description": "Generic Organic olive oil cooking spray (32 oz)",
+    "price": 14.86,
+    "stock": 16,
+    "image_url": "https://images.openfoodfacts.org/images/products/006/414/403/0026/front_en.9.400.jpg"
+  },
+  {
+    "id": 175,
+    "name": "Canola oil cooking spray",
+    "brand": "Costco",
+    "category": "Cooking Oil",
+    "description": "Costco Canola oil cooking spray (397 g)",
+    "price": 13.94,
+    "stock": 46,
+    "image_url": "https://images.openfoodfacts.org/images/products/009/661/920/6841/front_en.24.400.jpg"
+  },
+  {
+    "id": 176,
+    "name": "SUNFLOWER OIL COOKING SPRAY",
+    "brand": "Solesta",
+    "category": "Cooking Oil",
+    "description": "Solesta SUNFLOWER OIL COOKING SPRAY (190 ml)",
+    "price": 20.99,
+    "stock": 37,
+    "image_url": "https://images.openfoodfacts.org/images/products/408/860/036/0591/front_en.18.400.jpg"
+  },
+  {
+    "id": 177,
+    "name": "Solid Cooking Oil",
+    "brand": "Crisp 'N Dry",
+    "category": "Cooking Oil",
+    "description": "Crisp 'N Dry Solid Cooking Oil (250 g)",
+    "price": 19.95,
+    "stock": 26,
+    "image_url": "https://images.openfoodfacts.org/images/products/500/023/288/1960/front_en.3.400.jpg"
+  },
+  {
+    "id": 178,
+    "name": "Ghani",
+    "brand": "Jaouda",
+    "category": "Dairy",
+    "description": "Jaouda Ghani",
+    "price": 15.74,
+    "stock": 25,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/124/210/2187/front_fr.17.400.jpg"
+  },
+  {
+    "id": 179,
+    "name": "Kéfir natural sabor suave",
+    "brand": "Hacendado",
+    "category": "Dairy",
+    "description": "Hacendado Kéfir natural sabor suave (500 g)",
+    "price": 2.77,
+    "stock": 5,
+    "image_url": "https://images.openfoodfacts.org/images/products/843/654/777/0137/front_es.101.400.jpg"
+  },
+  {
+    "id": 180,
+    "name": "Yogurt Greek Style",
+    "brand": "Pilos",
+    "category": "Dairy",
+    "description": "Pilos Yogurt Greek Style (1000 gram)",
+    "price": 15.63,
+    "stock": 20,
+    "image_url": "https://images.openfoodfacts.org/images/products/000/002/004/7559/front_en.229.400.jpg"
+  },
+  {
+    "id": 181,
+    "name": "Dan up",
+    "brand": "Danone",
+    "category": "Dairy",
+    "description": "Danone Dan up (170 g)",
+    "price": 12.09,
+    "stock": 19,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/103/200/4455/front_en.63.400.jpg"
+  },
+  {
+    "id": 182,
+    "name": "Danone-Peche",
+    "brand": "Danone",
+    "category": "Dairy",
+    "description": "Danone Danone-Peche (110g)",
+    "price": 16.78,
+    "stock": 14,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/103/201/0333/front_en.6.400.jpg"
+  },
+  {
+    "id": 183,
+    "name": "Dessert gourmand choco",
+    "brand": "Jaouda",
+    "category": "Dairy",
+    "description": "Jaouda Dessert gourmand choco (80g)",
+    "price": 22.36,
+    "stock": 30,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/124/210/2552/front_en.47.400.jpg"
+  },
+  {
+    "id": 184,
+    "name": "Framboise délicate",
+    "brand": "Les 2 Vaches",
+    "category": "Dairy",
+    "description": "Les 2 Vaches Framboise délicate (460 g e (4x115g))",
+    "price": 17.41,
+    "stock": 28,
+    "image_url": "https://images.openfoodfacts.org/images/products/366/134/422/1796/front_fr.59.400.jpg"
+  },
+  {
+    "id": 185,
+    "name": "Activia ananas fraise",
+    "brand": "Danone",
+    "category": "Dairy",
+    "description": "Danone Activia ananas fraise (240 g)",
+    "price": 22.9,
+    "stock": 19,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/103/200/9443/front_en.4.400.jpg"
+  },
+  {
+    "id": 186,
+    "name": "Strawberry yogurt",
+    "brand": "alpro",
+    "category": "Dairy",
+    "description": "alpro Strawberry yogurt (500 gram)",
+    "price": 14.14,
+    "stock": 22,
+    "image_url": "https://images.openfoodfacts.org/images/products/541/118/811/4536/front_en.188.400.jpg"
+  },
+  {
+    "id": 187,
+    "name": "ديليسيوس بيرلي",
+    "brand": "COPAG",
+    "category": "Dairy",
+    "description": "COPAG ديليسيوس بيرلي (90g)",
+    "price": 9.23,
+    "stock": 17,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/126/696/2576/front_en.53.400.jpg"
+  },
+  {
+    "id": 188,
+    "name": "Yogurt Bnine BANANA",
+    "brand": "Jaouda",
+    "category": "Dairy",
+    "description": "Jaouda Yogurt Bnine BANANA (110 g)",
+    "price": 9.93,
+    "stock": 34,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/124/210/2941/front_en.47.400.jpg"
+  },
+  {
+    "id": 189,
+    "name": "Griego Ligero Natural",
+    "brand": "Hacendado",
+    "category": "Dairy",
+    "description": "Hacendado Griego Ligero Natural (1 kg)",
+    "price": 15.83,
+    "stock": 40,
+    "image_url": "https://images.openfoodfacts.org/images/products/848/000/021/3587/front_es.127.400.jpg"
+  },
+  {
+    "id": 190,
+    "name": "Yaourt Grec 10%MG",
+    "brand": "Delta",
+    "category": "Dairy",
+    "description": "Delta Yaourt Grec 10%MG (1 kg)",
+    "price": 19.76,
+    "stock": 48,
+    "image_url": "https://images.openfoodfacts.org/images/products/520/103/770/9774/front_fr.35.400.jpg"
+  },
+  {
+    "id": 191,
+    "name": "Actimel",
+    "brand": "Danone",
+    "category": "Dairy",
+    "description": "Danone Actimel (100g)",
+    "price": 14.56,
+    "stock": 17,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/103/200/9153/front_fr.15.400.jpg"
+  },
+  {
+    "id": 192,
+    "name": "Greek Style Natural Light 2% fat",
+    "brand": "Milbona",
+    "category": "Dairy",
+    "description": "Milbona Greek Style Natural Light 2% fat (1000 gram)",
+    "price": 5.06,
+    "stock": 31,
+    "image_url": "https://images.openfoodfacts.org/images/products/000/002/041/6690/front_en.230.400.jpg"
+  },
+  {
+    "id": 193,
+    "name": "Creamy Greek Style Natural Yogurt",
+    "brand": "Milbona",
+    "category": "Dairy",
+    "description": "Milbona Creamy Greek Style Natural Yogurt (1kg)",
+    "price": 4.96,
+    "stock": 5,
+    "image_url": "https://images.openfoodfacts.org/images/products/405/648/914/8739/front_en.84.400.jpg"
+  },
+  {
+    "id": 194,
+    "name": "LADID",
+    "brand": "Jaouda",
+    "category": "Dairy",
+    "description": "Jaouda LADID",
+    "price": 22.88,
+    "stock": 38,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/124/210/5676/front_en.35.400.jpg"
+  },
+  {
+    "id": 195,
+    "name": "Yogur natural al estilo griego",
+    "brand": "Hacendado",
+    "category": "Dairy",
+    "description": "Hacendado Yogur natural al estilo griego (750 g (6x125g))",
+    "price": 17.3,
+    "stock": 7,
+    "image_url": "https://images.openfoodfacts.org/images/products/848/000/020/5599/front_es.25.400.jpg"
+  },
+  {
+    "id": 196,
+    "name": "Alpro Fermentiertes Kokosnussprodukt, Natur, Absolutely 350g",
+    "brand": "alpro",
+    "category": "Dairy",
+    "description": "alpro Alpro Fermentiertes Kokosnussprodukt, Natur, Absolutely 350g (0.35 kg)",
+    "price": 15.88,
+    "stock": 10,
+    "image_url": "https://images.openfoodfacts.org/images/products/541/118/813/1380/front_en.178.400.jpg"
+  },
+  {
+    "id": 197,
+    "name": "Natural con Coco",
+    "brand": "alpro",
+    "category": "Dairy",
+    "description": "alpro Natural con Coco (400 g)",
+    "price": 8.23,
+    "stock": 39,
+    "image_url": "https://images.openfoodfacts.org/images/products/541/118/813/9126/front_en.76.400.jpg"
+  },
+  {
+    "id": 198,
+    "name": "Yogur griego ligero",
+    "brand": "Hacendado",
+    "category": "Dairy",
+    "description": "Hacendado Yogur griego ligero (125 g)",
+    "price": 17.95,
+    "stock": 13,
+    "image_url": "https://images.openfoodfacts.org/images/products/840/200/101/2051/front_es.54.400.jpg"
+  },
+  {
+    "id": 199,
+    "name": "Yaourt chèvre nature",
+    "brand": "Soignon",
+    "category": "Dairy",
+    "description": "Soignon Yaourt chèvre nature (500 g (4 x 125 g))",
+    "price": 17.58,
+    "stock": 11,
+    "image_url": "https://images.openfoodfacts.org/images/products/352/323/001/4267/front_fr.102.400.jpg"
+  },
+  {
+    "id": 200,
+    "name": "Daya Ananas Coco",
+    "brand": "Chergui",
+    "category": "Dairy",
+    "description": "Chergui Daya Ananas Coco (900)",
+    "price": 23.97,
+    "stock": 6,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/112/600/4538/front_fr.38.400.jpg"
+  },
+  {
+    "id": 201,
+    "name": "Total 0% fat",
+    "brand": "FAGE",
+    "category": "Dairy",
+    "description": "FAGE Total 0% fat (450 g)",
+    "price": 13.5,
+    "stock": 49,
+    "image_url": "https://images.openfoodfacts.org/images/products/520/105/401/7418/front_en.74.400.jpg"
+  },
+  {
+    "id": 202,
+    "name": "uht jaouda 1L",
+    "brand": "Jaouda",
+    "category": "Dairy",
+    "description": "Jaouda uht jaouda 1L (1L)",
+    "price": 2.5,
+    "stock": 30,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/124/210/1180/front_fr.79.400.jpg"
+  },
+  {
+    "id": 203,
+    "name": "Cream cheese",
+    "brand": "Original",
+    "category": "Dairy",
+    "description": "Original Cream cheese (1 kg)",
+    "price": 10.06,
+    "stock": 38,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/124/672/1278/front_en.4.400.jpg"
+  },
+  {
+    "id": 204,
+    "name": "Cheddar",
+    "brand": "la Hollandaise",
+    "category": "Dairy",
+    "description": "la Hollandaise Cheddar (24 336g)",
+    "price": 19.77,
+    "stock": 47,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/120/300/6653/front_ar.14.400.jpg"
+  },
+  {
+    "id": 205,
+    "name": "Goldium crémeux",
+    "brand": "Generic",
+    "category": "Dairy",
+    "description": "Generic Goldium crémeux (1 kg)",
+    "price": 5.06,
+    "stock": 37,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/125/909/2495/front_fr.8.400.jpg"
+  },
+  {
+    "id": 206,
+    "name": "Frommage fondu",
+    "brand": "REWE Beste Wahl",
+    "category": "Dairy",
+    "description": "REWE Beste Wahl Frommage fondu (1kg)",
+    "price": 3.86,
+    "stock": 14,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/124/672/2107/front_fr.3.400.jpg"
+  },
+  {
+    "id": 207,
+    "name": "Jebli",
+    "brand": "Danone",
+    "category": "Dairy",
+    "description": "Danone Jebli (190g)",
+    "price": 17.98,
+    "stock": 26,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/120/600/0733/front_ar.108.400.jpg"
+  },
+  {
+    "id": 208,
+    "name": "le blanc nature 900g araai",
+    "brand": "le berger",
+    "category": "Dairy",
+    "description": "le berger le blanc nature 900g araai (900 g)",
+    "price": 2.44,
+    "stock": 42,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/124/672/1940/front_fr.21.400.jpg"
+  },
+  {
+    "id": 209,
+    "name": "Salim",
+    "brand": "Salim",
+    "category": "Dairy",
+    "description": "Salim Salim (1 l)",
+    "price": 16.4,
+    "stock": 17,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/103/200/0600/front_en.56.400.jpg"
+  },
+  {
+    "id": 210,
+    "name": "Oat No Sugars",
+    "brand": "alpro",
+    "category": "Dairy",
+    "description": "alpro Oat No Sugars (1 L)",
+    "price": 5.15,
+    "stock": 23,
+    "image_url": "https://images.openfoodfacts.org/images/products/541/118/812/4689/front_en.455.400.jpg"
+  },
+  {
+    "id": 211,
+    "name": "شييزلي",
+    "brand": "gastro mixte",
+    "category": "Dairy",
+    "description": "gastro mixte شييزلي (1000g)",
+    "price": 9.54,
+    "stock": 29,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/125/909/3096/front_ar.31.400.jpg"
+  },
+  {
+    "id": 212,
+    "name": "fromage herbes milky food",
+    "brand": "milky foof",
+    "category": "Dairy",
+    "description": "milky foof fromage herbes milky food (1kg)",
+    "price": 5.75,
+    "stock": 45,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/124/672/2039/front_fr.3.400.jpg"
+  },
+  {
+    "id": 213,
+    "name": "Croissance réduit en sucre",
+    "brand": "Jaouda",
+    "category": "Dairy",
+    "description": "Jaouda Croissance réduit en sucre (500 ml)",
+    "price": 16.08,
+    "stock": 32,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/124/210/3528/front_fr.76.400.jpg"
+  },
+  {
+    "id": 214,
+    "name": "Salim",
+    "brand": "Generic",
+    "category": "Dairy",
+    "description": "Generic Salim (0.5L)",
+    "price": 9.5,
+    "stock": 39,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/103/200/0631/front_ar.19.400.jpg"
+  },
+  {
+    "id": 215,
+    "name": "Le bon lait",
+    "brand": "Albane",
+    "category": "Dairy",
+    "description": "Albane Le bon lait (1)",
+    "price": 5.34,
+    "stock": 38,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/125/001/2416/front_fr.22.400.jpg"
+  },
+  {
+    "id": 216,
+    "name": "El Mejor chef fromage 16p",
+    "brand": "null",
+    "category": "Dairy",
+    "description": "null El Mejor chef fromage 16p",
+    "price": 2.16,
+    "stock": 25,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/126/023/2095/front_xx.24.400.jpg"
+  },
+  {
+    "id": 217,
+    "name": "Tranches Au Goût Cheddar",
+    "brand": "Ideal",
+    "category": "Dairy",
+    "description": "Ideal Tranches Au Goût Cheddar",
+    "price": 13.63,
+    "stock": 15,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/126/023/0619/front_ar.45.400.jpg"
+  },
+  {
+    "id": 218,
+    "name": "la vache qui rit",
+    "brand": "Generic",
+    "category": "Dairy",
+    "description": "Generic la vache qui rit",
+    "price": 2.14,
+    "stock": 12,
+    "image_url": "https://images.openfoodfacts.org/images/products/611/102/800/1222/front_en.5.400.jpg"
+  },
+  {
+    "id": 219,
+    "name": "wasa",
+    "brand": "wasa",
+    "category": "Snacks",
+    "description": "wasa wasa (270 g)",
+    "price": 20.44,
+    "stock": 9,
+    "image_url": "https://images.openfoodfacts.org/images/products/730/040/048/1571/front_fr.1742.400.jpg"
+  },
+  {
+    "id": 220,
+    "name": "Tyrrells Chips m. havsalt",
+    "brand": "Tyrrells",
+    "category": "Snacks",
+    "description": "Tyrrells Tyrrells Chips m. havsalt (150 g)",
+    "price": 13.47,
+    "stock": 43,
+    "image_url": "https://images.openfoodfacts.org/images/products/506/004/264/1000/front_en.179.400.jpg"
+  },
+  {
+    "id": 221,
+    "name": "Pringles Original",
+    "brand": "Pringles",
+    "category": "Snacks",
+    "description": "Pringles Pringles Original (175 g)",
+    "price": 15.23,
+    "stock": 13,
+    "image_url": "https://images.openfoodfacts.org/images/products/505/399/015/6009/front_fr.230.400.jpg"
+  },
+  {
+    "id": 222,
+    "name": "Chips de lentilles saveur tomate mozza",
+    "brand": "Vico",
+    "category": "Snacks",
+    "description": "Vico Chips de lentilles saveur tomate mozza (85 g)",
+    "price": 3.89,
+    "stock": 25,
+    "image_url": "https://images.openfoodfacts.org/images/products/333/697/180/5038/front_en.94.400.jpg"
+  },
+  {
+    "id": 223,
+    "name": "Sour Cream & Onion",
+    "brand": "Pringles",
+    "category": "Snacks",
+    "description": "Pringles Sour Cream & Onion (175 g)",
+    "price": 12.4,
+    "stock": 9,
+    "image_url": "https://images.openfoodfacts.org/images/products/505/399/015/5354/front_en.42.400.jpg"
+  },
+  {
+    "id": 224,
+    "name": "Cuites au four nature",
+    "brand": "Lay's",
+    "category": "Snacks",
+    "description": "Lay's Cuites au four nature (130 g)",
+    "price": 10.08,
+    "stock": 44,
+    "image_url": "https://images.openfoodfacts.org/images/products/316/893/000/2987/front_en.134.400.jpg"
+  },
+  {
+    "id": 225,
+    "name": "Chipos végétales aux herbes de Provence",
+    "brand": "HappyVore",
+    "category": "Snacks",
+    "description": "HappyVore Chipos végétales aux herbes de Provence (200 g)",
+    "price": 8.28,
+    "stock": 12,
+    "image_url": "https://images.openfoodfacts.org/images/products/377/001/616/2098/front_fr.71.400.jpg"
+  },
+  {
+    "id": 226,
+    "name": "Chip Choco Zero Sin Azúcares",
+    "brand": "Gullón",
+    "category": "Snacks",
+    "description": "Gullón Chip Choco Zero Sin Azúcares (125 g)",
+    "price": 9.33,
+    "stock": 36,
+    "image_url": "https://images.openfoodfacts.org/images/products/841/037/600/9415/front_es.195.400.jpg"
+  },
+  {
+    "id": 227,
+    "name": "Chips saveur fromage du Jura",
+    "brand": "Brets",
+    "category": "Snacks",
+    "description": "Brets Chips saveur fromage du Jura (125 g)",
+    "price": 4.22,
+    "stock": 38,
+    "image_url": "https://images.openfoodfacts.org/images/products/349/791/700/0907/front_fr.222.400.jpg"
+  },
+  {
+    "id": 228,
+    "name": "Digestive Avena Choco",
+    "brand": "gullón",
+    "category": "Snacks",
+    "description": "gullón Digestive Avena Choco (425 g)",
+    "price": 7.06,
+    "stock": 27,
+    "image_url": "https://images.openfoodfacts.org/images/products/841/037/602/6962/front_en.138.400.jpg"
+  },
+  {
+    "id": 229,
+    "name": "Paprika Chips",
+    "brand": "Pringles",
+    "category": "Snacks",
+    "description": "Pringles Paprika Chips (165g)",
+    "price": 16.88,
+    "stock": 34,
+    "image_url": "https://images.openfoodfacts.org/images/products/505/399/016/1669/front_en.256.400.jpg"
+  },
+  {
+    "id": 230,
+    "name": "Doritos goût nature",
+    "brand": "Doritos",
+    "category": "Snacks",
+    "description": "Doritos Doritos goût nature (160g)",
+    "price": 22.15,
+    "stock": 27,
+    "image_url": "https://images.openfoodfacts.org/images/products/316/893/017/3311/front_fr.3.400.jpg"
+  },
+  {
+    "id": 231,
+    "name": "Sea salt & cider vinegar",
+    "brand": "Tyrell’s",
+    "category": "Snacks",
+    "description": "Tyrell’s Sea salt & cider vinegar (150 g)",
+    "price": 3.36,
+    "stock": 10,
+    "image_url": "https://images.openfoodfacts.org/images/products/506/004/264/1406/front_en.254.400.jpg"
+  },
+  {
+    "id": 232,
+    "name": "Chips recette paysanne nature",
+    "brand": "Lay's",
+    "category": "Snacks",
+    "description": "Lay's Chips recette paysanne nature (155 g)",
+    "price": 19.69,
+    "stock": 24,
+    "image_url": "https://images.openfoodfacts.org/images/products/316/893/016/8133/front_fr.40.400.jpg"
+  },
+  {
+    "id": 233,
+    "name": "Chips de lentilles saveur oignons caramélisés",
+    "brand": "Vico",
+    "category": "Snacks",
+    "description": "Vico Chips de lentilles saveur oignons caramélisés (85 g)",
+    "price": 7.47,
+    "stock": 47,
+    "image_url": "https://images.openfoodfacts.org/images/products/333/697/210/9104/front_fr.49.400.jpg"
+  },
+  {
+    "id": 234,
+    "name": "Chips sel de mer et poivre noir",
+    "brand": "Tyrrell's",
+    "category": "Snacks",
+    "description": "Tyrrell's Chips sel de mer et poivre noir (150g)",
+    "price": 11.23,
+    "stock": 40,
+    "image_url": "https://images.openfoodfacts.org/images/products/506/004/264/1420/front_en.87.400.jpg"
+  },
+  {
+    "id": 235,
+    "name": "Chips de Sarrasin au Sel de Guerande",
+    "brand": "Brets",
+    "category": "Snacks",
+    "description": "Brets Chips de Sarrasin au Sel de Guerande (120 g e)",
+    "price": 8.96,
+    "stock": 47,
+    "image_url": "https://images.openfoodfacts.org/images/products/349/791/700/2451/front_en.109.400.jpg"
+  },
+  {
+    "id": 236,
+    "name": "Saveur Sel & Vinaigre",
+    "brand": "Brets",
+    "category": "Snacks",
+    "description": "Brets Saveur Sel & Vinaigre (125 g)",
+    "price": 20.79,
+    "stock": 30,
+    "image_url": "https://images.openfoodfacts.org/images/products/349/791/110/5127/front_fr.214.400.jpg"
+  },
+  {
+    "id": 237,
+    "name": "Tortilla Nachos Original",
+    "brand": "Old El Paso",
+    "category": "Snacks",
+    "description": "Old El Paso Tortilla Nachos Original (185g)",
+    "price": 8.56,
+    "stock": 17,
+    "image_url": "https://images.openfoodfacts.org/images/products/841/007/648/1597/front_en.317.400.jpg"
+  },
+  {
+    "id": 238,
+    "name": "Chèvre piment d'Espelette",
+    "brand": "Brets",
+    "category": "Snacks",
+    "description": "Brets Chèvre piment d'Espelette (125 g)",
+    "price": 19.64,
+    "stock": 19,
+    "image_url": "https://images.openfoodfacts.org/images/products/349/791/700/0518/front_en.208.400.jpg"
+  },
+  {
+    "id": 239,
+    "name": "Hartige snack met zure room- en uiensmaak",
+    "brand": "Pringles",
+    "category": "Snacks",
+    "description": "Pringles Hartige snack met zure room- en uiensmaak (40g)",
+    "price": 20.97,
+    "stock": 27,
+    "image_url": "https://images.openfoodfacts.org/images/products/505/399/010/7384/front_en.106.400.jpg"
+  },
+  {
+    "id": 240,
+    "name": "Coca Cola Original taste",
+    "brand": "Coca-Cola",
+    "category": "Beverages",
+    "description": "Coca-Cola Coca Cola Original taste (1.5l)",
+    "price": 16.28,
+    "stock": 13,
+    "image_url": "https://images.openfoodfacts.org/images/products/544/900/000/0439/front_en.292.400.jpg"
+  }
+]
